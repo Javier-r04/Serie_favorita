@@ -1,2 +1,2 @@
-## Javier Rodriguez
-## Carne: 1535524
+print("Javier Rodriguez") 
+print("Carne: 1535524")
